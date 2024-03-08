@@ -1,0 +1,15 @@
+#birinchi {
+    background-color: blue;
+    margin-top: 70px;
+}
+.ikkinchi {
+    background-color: black;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+#span1 {
+    color: red;
+    font-weight: bold;
+    margin-top: 80px;
+}
